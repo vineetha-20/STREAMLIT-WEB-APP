@@ -16,7 +16,7 @@ Document the full workflow: Data Collection → Preprocessing → Visualization 
 
 
 🛠️ Tech Stack
-ToolPurposePythonCore programming languageStreamlitWeb application frameworkPower BIInteractive dashboardPandasData processing and analysisPlotlyData visualizationOpenAI APIAI Chatbot integrationExcel (openpyxl)User data and feedback storage
+Tool Purpose Python Core programming language Streamlit Web application framework Power BI Interactive dashboard Pandas Data processing and analysis Plotly Data visualization OpenAI API AI Chatbot integration Excel (openpyxl)User data and feedback storage
 
 📁 Project Structure
 global-income-inequality/
@@ -64,10 +64,18 @@ IMF — Median income, economic indicators
 
 
 👥 Team Members
-NameVineetha Chalamala SettiMalloju VyshnaviNayana AjayPranathi NethiVidyalakshmi RJatin MukatiSahil GaikwadGokulnathan SaravananAnagha BhurePadmini Swaranam STejaswini NethalaRagavi SSara Mamatha
+Name: Vineetha Chalamala Setti,Malloju Vyshnavi,Nayana Ajay,Pranathi Nethi,Vidyalakshmi R,Jatin Mukati,Sahil Gaikwad,Gokulnathan Saravanan,Anagha Bhure,Padmini Swaranam ,STejaswini ,Nethala Ragavi ,S Sara Mamatha
 
 📅 Internship Timeline
-WeekActivityWeek 1Data collection from World Bank, OECD, IMFWeek 2Dataset merging, handling missing valuesWeek 3Data cleaning and preprocessingWeek 4Normalization, aggregation, dashboard layout planningWeek 5Power BI base dashboard creationWeek 6Dashboard interactivity and stylingWeek 7Streamlit integrationWeek 8Testing, refinement, final documentation
+Week Activity:
+Week 1:Data collection from World Bank, OECD, IMF
+Week 2:Dataset merging, handling missing values
+Week 3:Data cleaning and preprocessing
+Week 4:Normalization, aggregation, dashboard layout planning
+Week 5:Power BI base dashboard creation
+Week 6:Dashboard interactivity and styling
+Week 7:Streamlit integration
+Week 8:Testing, refinement, final documentation
 
 🙏 Acknowledgements
 
